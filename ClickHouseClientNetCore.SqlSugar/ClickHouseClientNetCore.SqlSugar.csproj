@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlSugar.ClickHouseCore" Version="5.1.4.89" />
+    <PackageReference Include="SqlSugarCore" Version="5.1.4.86" />
+  </ItemGroup>
+</Project>
